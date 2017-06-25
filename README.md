@@ -28,7 +28,7 @@ SOFTWARE.
 
 
 
-# License of AES and RSA 
+# License of AES and RSA and Hash , Adjuster
       
 MIT License
 
